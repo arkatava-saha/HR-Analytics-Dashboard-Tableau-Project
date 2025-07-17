@@ -40,9 +40,7 @@ HR domain understanding
 The final dashboard provides a summary-level view that enables users to explore key HR trends and workforce composition visually. It simulates how HR professionals could leverage analytics to support strategic decisions in hiring, retention, diversity, and compensation planning.
 
 # Dashboard
-![https://github.com/arkatava-saha/HR-Analytics-Dashboard-Tableau-Project/blob/main/HR_Dashboard.png]
-
-
+![Dashboard Preview](https://github.com/arkatava-saha/HR-Analytics-Dashboard-Tableau-Project/blob/main/HR_Dashboard.png)
 
 
 
